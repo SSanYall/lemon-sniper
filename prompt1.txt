@@ -70,3 +70,6 @@ Based on all the information you've provided—the official email, your personal
     - [ ] Links to provided resources (Bezos letter, AWS blog) reviewed.
     - [ ] Tech setup for Zoom tested.
     - [ ] "Why Amazon?" and "Why this role?" answers internalized.
+
+
+make sure some scenarios it gives with stories with customer oriented examples any work o problem solved tara
