@@ -1,0 +1,53 @@
+What to Expect  
+
+Interview format: 60-minute interview via zoom with a member of the Technical Infrastructure PM Team. You will receive an automated email within the next 5 days asking for your interview availability, and the system will auto schedule you. Once you are scheduled, you will receive the final interview details. This single interview will include both behavioral-based questions and some technical/function fit/role specific questions around your PM skills, engineering knowledge, and communication skills.  
+
+ 
+
+Interview Questions:  
+
+Technical/Role Specific: From a technical perspective, they will assess your engineering background to ensure you have a basic understanding of mechanical, electrical, construction, civil, or computer engineering concepts. Additionally, they will ask questions regarding your experience with PM work including any tools you have used and any projects you have completed. They will also assess your communication skills and look for situations/examples where you have had to communicate and work with various stakeholders both verbally and in writing.  
+Non-technical: Behavioral based questions that evaluate your workstyle and alignment to ours Leadership Principles.   
+ 
+
+How to Prepare  
+
+ 
+
+Behavioral Based Question Preparation: Familiarize yourself with our Leadership Principles(LP). Prepare specific examples from your past experiences where you have demonstrated these LPs and be prepared to speak in detail. Focus on examples that describe situations where your actions resulted in a positive result, made a significant impact, or went beyond expectations. Attached are sample behavioral-style interview questions to review.  
+
+Use the STAR method to structure your response by describing the Situation, Task, Action, and Result. This method helps keep your response focused on the question and example. This video is helpful in identifying how to structure comprehensive responses.  
+Amazon is a data and metric driven company, so make sure your answer is tangible.  
+Do not speak in general or stay at surface level.  
+Highlight your input vs the group effort   
+Speak in "I" vs. "we" statements. You’re welcome to share examples of working in group situations, but the interviewer needs to walk away with data points about "YOU." We know it can be difficult, but when describing examples or demonstrating the projects you have completed in the past, it is important to emphasize your specific contribution. We want to understand what success can be attributed to you vs. your larger team.  
+ 
+
+Here are some additional links that may be helpful to review: 
+
+Life in our AWS Data Centers 
+What Is Cloud Computing?  
+AWS CEO Drills Down on Cloud Adoption and Amazon’s Culture  
+Jeff Bezos 2018 Letter to Shareholders  
+Life at AWS  
+  
+
+At the end of your interview…   
+
+At the end of the interview, you will have time to ask questions to your interviewer. Again, we value curiosity! Avoid generic questions. Show preparation, engagement, thoughtfulness, and genuine interest in the position and AWS. Feel free to ask any questions about the role as you wish, and please keep all HR and compensation related questions to the Recruitment team.   
+
+ 
+
+Accommodations   
+
+Amazon is committed to complying fully with the Americans with Disabilities Act (ADA) and similar federal, state, and local laws. Amazon does not discriminate against any qualified applicant, candidate, or employee with a known physical, mental, or sensory disability in any employment practice or decision, including hiring, promotion, job assignment, compensation, discipline, training, and termination. Ability, not disability, is the basis of all employment decisions.  
+
+ 
+
+Next steps after your interview   
+
+We know speed and closure are important in an interview process and so it is our commitment to you to follow up within 5 business days after your interview regarding outcome and potential next steps. Unfortunately, we are only able to provide the decision and are unable to share any specific feedback  
+
+ 
+
+I hope this helps – please let me know if you have any questions.
