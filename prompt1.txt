@@ -1,0 +1,72 @@
+This is an excellent and comprehensive request. Preparing for an Amazon interview, especially for a Technical Infrastructure Program Manager (TIPM) role, requires a deep understanding of their Leadership Principles, technical fundamentals, and the STAR method.
+
+Based on all the information you've provided—the official email, your personal notes, and the job description—here is a single, powerful, and detailed prompt for me to follow. This prompt is designed to generate a complete, all-in-one interview preparation guide for you.
+
+---
+
+### The Master Prompt for Your Amazon TIPM Interview Guide
+
+**Role:** You are an expert Amazon interview coach specializing in Technical Infrastructure Program Management.
+
+**Task:** Create a comprehensive, detailed, and actionable interview preparation guide for a candidate who has an upcoming 60-minute Zoom interview for the **AWS Technical Infrastructure Program Manager Intern** role. Use the provided source materials to tailor the guide specifically to this role and the candidate's profile.
+
+**Source Materials (to be used and integrated):**
+1.  **The Official Interview Email:** Contains the format, types of questions (behavioral, technical/role-specific), preparation advice (STAR method, Leadership Principles), and links to resources.
+2.  **The Candidate's Personal Notes:** Emphasizes the 16 Leadership Principles (especially Customer Obsession, Ownership, Earn Trust), the need for 5-6 STAR stories, preparing questions to ask, and the possibility of multiple interview rounds.
+3.  **The Job Description:** Details the role within the AWS Infrastructure Capacity Delivery Team, required basic/ preferred qualifications (Electrical/Mechanical Engineering background, Excel, SQL), and the team's focus on data center facilities.
+
+**The final guide MUST be structured as follows and include ALL the details below:**
+
+### Part 1: Understanding the Battlefield - Role, Format & Philosophy
+
+- **Deep Dive into the Role:** Explain what a TIPM Intern in the AWS Infrastructure Capacity Delivery Team actually does. Connect the responsibilities (project oversight of electrical, mechanical, controls systems) to the "big picture" of AWS cloud growth. Use the provided links (like "Life in our AWS Data Centers") to ground this explanation in reality.
+- **Decoding the Interview Format:** Break down the 60-minute Zoom interview. Explain that it's a blended interview, meaning behavioral and technical questions are interwoven. Clarify that the interviewer is from the Technical Infrastructure PM Team, so they will be evaluating you as a future peer.
+- **The Amazon Philosophy:** Emphasize the data-driven culture. Explain that every answer must be tangible and include metrics. Reiterate the importance of speaking in "I" terms and highlighting your specific contribution, even in a team setting.
+
+### Part 2: The Behavioral Foundation - Mastering the STAR Method & Leadership Principles
+
+- **STAR Method Masterclass:** Provide a detailed breakdown of the STAR method (Situation, Task, Action, Result). For each component, give a "good" vs. "bad" example related to infrastructure or program management.
+- **The 16 Leadership Principles (LP) Decoded:** Create a section for each of the 16 LPs, but with a special focus on those most critical for this role, as per your notes:
+    - **Customer Obsession:** Go beyond the definition. Provide a detailed situation and example of how one would assist or problem-solve with a **customer-oriented approach** in the context of data centers. (e.g., "A customer's application latency spikes due to a planned facility maintenance event. How do you respond?")
+    - **Ownership:** Give an example of taking ownership of a problem outside your direct scope (e.g., identifying a potential risk in the construction schedule that impacts a future project and proactively mitigating it).
+    - **Earn Trust:** Provide an example of a time you had to communicate a difficult technical decision to a non-technical stakeholder (e.g., explaining a budget overrun to leadership due to a supply chain issue).
+- **Building Your 5-6 Core Stories:** Based on the need for 5-6 stories in STAR format, provide a "Story Menu" with prompts tailored to the role:
+    - **Story 1 (Project Management):** A time you had to manage a complex task with competing deadlines. Use your resume details here (e.g., planning a university engineering project, managing a lab schedule).
+    - **Story 2 (Problem Solving/Technical):** A time you identified a flaw in a system or process and fixed it (e.g., optimizing a workflow in a lab, troubleshooting a design in a class project).
+    - **Story 3 (Conflict/Stakeholder Management):** A time you had to work with a difficult team member or stakeholder to get a project across the finish line.
+    - **Story 4 (Failure/Mistake):** A time you made a mistake. What was the situation, how did you take ownership, and what did you learn? (This is crucial for "Ownership").
+    - **Story 5 (Customer Obsession):** A time you went above and beyond for a "customer" (this could be a professor, a club member, a previous employer's client).
+    - **Story 6 (Influence without Authority):** A time you had to convince a group of peers to adopt your idea, even though you weren't their boss.
+- **Connecting LPs to Questions:** Show how Amazon interviewers might frame questions around these principles. For example:
+    - "Tell me about a time a customer wasn't happy and what actions you took." (Customer Obsession)
+    - "Tell me about a time you saw a problem and took the initiative to fix it without being asked." (Ownership)
+
+### Part 3: The Technical & Role-Specific Deep Dive
+
+- **"Engineering 101" Review:** Create a checklist of fundamental concepts from the job description (mechanical, electrical, construction, civil, computer engineering). You don't need to be an expert, but you must show basic understanding. Suggest reviewing: basics of power distribution (HVAC, switchgear), construction project lifecycles, and building automation systems.
+- **PM Toolbox:** List common program management tools (Jira, MS Project, Asana, Excel) and explain how they are used in infrastructure projects. Since the job prefers advanced Excel and SQL, provide example questions or scenarios:
+    - **Excel:** "Describe a time you used advanced Excel functions (e.g., pivot tables, VLOOKUP) to analyze a dataset and make a recommendation." Use my resume to tailor this.
+    - **SQL:** "If you had a table of server installation dates and data center locations, how would you write a simple query to find the total servers installed in a specific region last quarter?"
+- **Communication Scenarios:** Provide examples of communicating with various stakeholders:
+    - **Verbal:** "Explain a technical constraint (e.g., a delay in transformer delivery) to a construction manager in one sentence."
+    - **Written:** "Draft a short, clear email to leadership updating them on a project's critical path risk."
+
+### Part 4: Your Turn to Shine - Questions for the Interviewer
+
+- Generate a list of 5-7 insightful questions the candidate can ask. They must be specific and show genuine interest, avoiding generic ones. Categorize them:
+    - **Role-Specific:** "What is the single biggest challenge the Capacity Delivery Team is facing right now, and how might an intern contribute to solving it?"
+    - **Growth & Culture:** "How does the team foster a culture of learning and mentorship, especially for interns who are eager to understand the full lifecycle of a data center project?"
+    - **Project-Related:** "Could you describe a recent project where the team had to innovate to overcome a unique constraint, and what the key learnings were?"
+    - **Expectations:** "Beyond the job description, what level of ownership and input have your most successful interns demonstrated?"
+
+### Part 5: The Logistics & Final Stretch
+
+- **The Timeline:** Explain the 5-day window for scheduling and the 5-business day follow-up. Briefly mention the possibility of additional loops.
+- **Accommodations & Next Steps:** Reiterate Amazon's commitment to inclusion and the process for requesting accommodations.
+- **Final Checklist:** A one-page summary checklist for the day before the interview, covering:
+    - [ ] 5-6 STAR stories rehearsed and tailored to LPs.
+    - [ ] Technical fundamentals reviewed.
+    - [ ] 3 insightful questions prepared.
+    - [ ] Links to provided resources (Bezos letter, AWS blog) reviewed.
+    - [ ] Tech setup for Zoom tested.
+    - [ ] "Why Amazon?" and "Why this role?" answers internalized.
