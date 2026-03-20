@@ -1,0 +1,199 @@
+STAR response is situation, task, action and Result, which is a situational type of set of questions which demands what type of response we had on it, why we responded that way and show OUR CONTRIBUTIONS to a problem and not of the team. It is the main part of the Leadership Principles assessment(LP) for Amazon.  Each situation of an LP demands a STAR based response.
+
+An interview would typically have 3-5 LP(Leadership Principles) based questions, which need to be answered in the STAR method.
+
+Big risk decision example: 
+I was supposed to start with a slab concrete pouring the following day. Unfortunately till then we did not have sufficient Sand at the site and we had to schedule for a team of 25 civil laborers for the next day to start pouring concrete, who need to be informed 24 hours in advance and will take full payment whether the sand arrives or not. But due to heavy rain forecast, transporting sand was becoming difficult and we were running on a tight schedule as the concrete pouring was a critical activity. So I had to take the risk of scheduling the workers to be on site and make sure the sand arrives and is covered well, during a short dry window, risking pay of 25 workers the next day.
+
+LEADERSHIP PRINCIPLES:
+
+1. Customer Obsession: Customer can be external, who are clients using the services or Internal, such as the engineering team that I support as TIPM. For a TIPM, it could be a data center operation team waiting for capacity, or cooling engineer waiting for info to complete their design, or end users expecting servers on time.
+As part of customer Obsession, I must make sure I understand what the downstream teams need and deliver them proactively, while anticipating delays. Going above and beyond what is needed to make sure the stakeholders receive what they need to perform effectively.
+
+Potential question: Tell me an example when you went above and beyond for a customer?
+Answer:
+Situation(S): While working as a project manager, I was expected to have completed carpentry, painting and clean-up for a unit by the end of the day, as the customer preponed the housewarming as it was an auspicious day. (Mention about the project and it's scope, and my position and scope of my position, what stage of the project. Assume they don't know anything and start from scratch)
+
+Task(T): So, I needed to make sure the unit was finished by the end of the day. 
+
+Action(A): So I made sure the carpentry team worked alongside the painting team, instead of scheduling them one after the other, wherein the painting team started the paintwork of one room, as soon as the carpentry work completed in that room, one following the other. That led to the carpentry and painting work to be completed by 4:00PM. I then had the deep cleaning team scheduled who completed cleaning the unit by 8:30 PM. 
+
+Result(R): Even though it went beyond the regular workday time, I managed to handover the unit to the owner by the end of the day, making sure their commitments were fulfilled.
+
+
+Inputs: Also include project scope, how did I manage resources, how many rooms, how many crew etc.
+Example is weak, try making a stronger example.
+
+2. Ownership: Is the most critical LP for a PM. It requires taking responsibility for anything to go wrong, Thinking beyond the immediate scope, never waiting to be told what to do, and to care about outcomes or repercussions of decisions, not just direct outcomes.
+
+For TIPM, in case a vendor is about to miss a deadline, I must proactively flag the issue, and not wait for someone to ask. Or if a process is broken, I must propose and fix and not only complain about it. Or if there is a communication gap, I must be the mediator for the issue to be resolved, not blame them for it not to be my official job.
+
+Potential question: Tell me a situation where I took ownership of a something outside of my responsibilities?
+
+Answer:
+Situation(S): When I joined as a PM at my firm, the equipment delivery scheduling was handled by 3 individuals, the site manager, the procurement lead, and the logistics coordinator. This led to frequent miscommunications. 
+
+Task(T): Even though I was responsible for on site project management, and equipment was part of procurement, I stepped in to address the fragmented communication.
+
+Action(A): Using Gantt chart on Primavera P6, I created a tracking system with all the equipments required over the next 12 weeks, thereby it became self updated and could be tracked by one person. And I taught the procurement lead to understand and be able to update the chart as and when updates came up on new equipments. 
+
+Result(R): This led to reduced work load and now the tracking could be made by a single person. 
+
+Inputs: pick up one material, not multiple materials( like equipments, just mention sand) and how much delay it took. Mention how my tool helped save the hours. How many hours it took me to prepare the Primavera tool, and how much of schedule timeline was saved. And how streamlined it got. How much time I saved in months.
+
+3. Earn trust: Honesty is the secret to earning trust, keeping honest even during uncomfortable times, admitting mistakes and sharing learnings, and building credibility through listening and reliable behavior.
+
+For TIPM, to earn trust, we can warn the manager of a delay, before they realise or hear it from another source, to admit that we don't know something and showing eagerness to learn, following through on commitments, respectfully sharing honest feedbacks.
+
+Potential question: Tell me about a time you had to deliver difficult news to a stakeholder?
+
+Answer:
+Situation(S): During my first month at Millennia, on the Grandeur project, I started once the structural part with basic plumbing was completed. Since I felt the columns were slightly hollow at certain points I had a rebound hammer test done to check for the strength of the structure. It was expected to be at 25MPa, but it turned out to be about 15MPa for every floor. So it would've risked the stability of the structure after about 10 years itself. 
+
+Task(T): I had to break it to the contractor that the civil work had been compromised and moving forward could risk the strength of the structure. 
+
+Action(A): I suggested and got implemented a retrofitting primer coating done on the all slabs and columns of the building, which acts as a binder and holds on to the structure tightly. This led to an improvement of the compressive strength from around 15MPa to 27MPa.
+
+Result(R): Even though it costed the contractor 10% higher than the initial civil work budget, he commended my observation and said that I saved his reputation, and the life of the structure and it's future inhabitants, thereby prioritising customers over costs.
+
+Inputs: It can be improved, and could be used on insostance on quality and standards. Rather than earn trust, it suits that better. Have solid 4-5 stories made completely thorough. Think how many questions they could ask and keep it thorough and comprehensive. 
+
+4. Invent and simplify: For a TIPM, invention and simplification could mean finding simpler ways to track projects, or automating repetitive reporting tasks, questioning the way it has always worked, and proposing process improvements.
+
+Potential question: Tell me about a time when you simplified a complex process?
+
+Answer: Just mention the Gantt chart example used in the ownership LP(2) 
+
+5. Are right, a lot: For a TIPM, they need to be right a lot could mean making data backed decisions, seeking inputs from multiple disciplines to make sure, to be willing to change mind after seeing evidence, building a track record of good calls. 
+
+Potential question: Tell me about a time you made a decision with incomplete information?
+
+Answer: Mention the Earn Trust case(3), where I did not have complete information of the real-time tested strengths, so I had it tested and made me take an informed retrofitting decision.
+
+6. Learn and be curious: As a TIPM, it is important to learn about improving technologies of Data centers, need to ask why even when we can directly execute, seeking feedback and acting on it, and updating myself with AWS blogs, documents and industry publications.
+
+Potential question: Tell about a time I had to quickly learn something new?
+
+Answer: 
+Situation(S): I had to learn advanced Excel tracking, which was prevalent at my jobsite, in order to understand their method of scheduling. Since there were scheduling discrepancies, and so I could help them create a Gantt chart.
+
+Task(T): As at Millennia they used excel tracker, I had to learn and understand how their data entry worked and how tracking took place in their project.
+
+Action(A): I understood their equipment scheduling and tracking done on Excel tracking and simplified it by making a Gantt chart. 
+
+Result(R): I got to learn Excel tracking and at the same time, I could help simplify the equipment tracking process followed on that project using Gantt chart, resulting in easier tracking by one procurement lead, instead of three people as seen earlier.
+
+7. Hire and develop the best: Even as TIPM intern, I can help mentor new team members, share knowledge and document it for future reference, provide constructive feedback to peers 
+
+Potential question: Tell me about a time you helped someone else improve?
+
+Answer:
+Situation(S): At the dining court at my university, the new full time cook working at the station with me wasn't able to keep up with the customers' demand for hamburgers.
+
+Task(T): As a part time student cook, I taught the new full time cook how to clear the scrap from the flat top fast, as they weren't able to keep up making hamburgers for the customers with their technique of cleaning it.
+
+Action(A): I showed them how adding hot water on top of the flat top not only kept the flat top warm, but provided moisture to be able to scrape off the leftovers from the flat top much faster than directly scraping it.
+
+Result(R): We were able to serve the customers, who are the top priority, without running out for the rest of the night, and I was commended by my supervisor for being proactive and teaching the full time cook, who regarded well of me to the supervisor. 
+
+8. Insist on the highest standards: For a TIPM, we mustn't accept good enough, when we know excellent is achievable, we must catch errors before they turn into problems, must create documents and processes that can scale, question deliverables that don't meet the bar.
+
+Potential question: Tell me about a time you refused to compromise on quality?
+
+Answer: Talk about the Earn Trust case(3), I did not rely on the on-paper structural strength specifications, and had a separate test done and made sure the quality was not compromised through retrofitting
+
+9. Think big: For a TIPM, I could consider how a local solution could be scaled globally, think beyond current project to long-term improvements, propose ideas that could impact multiple teams, going beyond the 'thats just how it's done approach'.
+
+Potential question: Tell me about a time you proposed a big idea?
+
+Answer: 
+Situation(S): While I was on my way back from a store on my bike in Bangalore, India, I was passing through an under pass at the centre of which was a slightly elevated and undulated wasterwater drain vent. It was so undulated that I ended up falling off the bike.
+
+Task(T): I wanted to have this drain vent flattened and smoothened, so that no such mishaps took place.
+
+Action(A): I first raised a complaint with Bangalore Municipal Corporation about this issue and the potential threats it could pose, as it was a busy road. I then provided an alternative design option, which could avoid any elevation and a smooth finishing of the drain vent, leading to better wastewater collection at the under pass.
+
+Result(R): Not only did they apply the design to that underpass, but they used the same design to change the drain vents of all other underpasses in Bangalore, which could have potentially saved many accidents.
+
+10. Bias for action: For a TIPM, making progress is more important than waiting for perfect information, they should consider taking initiative when something needs doing, escalating on issues, rather than sitting on them, to prefer action at 80% confidence rather than staying inactive at a 100% confidence.
+
+Potential question: Tell me about a time you took action without being asked?
+
+Answer: I can talk about the taking Ownership case (2), where I proactively volunteered to design a Gantt chart, in order to sort out the tracking inefficiency, and reduce the workload on the procurement lead.
+
+11. Frugality: As a TIPM, I should find cost effective solutions, question unnecessary expenses, maximise use of existing resources before requesting for new ones, and using open-source tools to solve issues when needed.
+
+Potential question: Tell me a time when you accomplished something with limited resources?
+
+Answer:
+Situation(S): My student engineering organization (CEGSAC) needed a project management tool, but
+we had zero budget for paid software.
+
+Task(T): I needed to find or create a solution that would meet our needs without cost.
+
+Action(A): I evaluated free tiers of various tools and created a combination approach:
+MS Excel for task tracking (free), Google Sheets for Gantt charts (free), and Discord for communication (free). I created templates and a one-page guide for each tool. I conducted a 30-minute training for the team.
+
+Result(R): Our system worked effectively for 40+ members across 2 projects over the last semester.
+We later received feedback that our organization was more organized than groups with paid tools.
+
+12. Dive deep: For a TIPM, they must make sure they don't accept status updates at face value, but verify updates and data before presenting them, get to the root cause of issues, not only acknowledging them, and be willing to get hands on when needed.
+
+Potential question: Tell me about a time you had to dig into the details to solve a problem?
+
+Answer: 
+Situation(S): As part of the project controls course from the Fall semester, we had to talk to any firm from industry, take schedule, cost and risk data from their project and perform a detailed study to optimize their project schedule and estimates. But the utility firm that shared us the data redacted the project name and most of the estimates due to confidentiality reasons.
+
+Task(T): We needed to dig deep to figure out what project it could have been and figure out what estimates could have been spent on each item.
+
+Action(A): We had to dig deep into their old and ongoing projects and other utility projects around the region they operate, and figure out which could have been the exact project, based on the total project estimate they provided, and based on their total project estimate and project schedule provided and data available on similar projects on specific item costs, we were able to figure out the approximate estimates and optimize the project using EV, ES, cash flow analysis, Root Cause analysis, and Risk analysis.
+
+Result(R): Our project was regarded as the most realistic and elaborate, amongst our peers and we received the highest grade in the class.
+
+13. Have backbone; Disagree and commit: For a TIPM, we are expected to speak up when a see a risk others miss, challenge decisions with data and rationale, commit fully once a decision is made, even if I disagreed to the team, and should never stay silent to avoid conflicts.
+
+Potential question: Tell me about a time you disagreed with your manager or team?
+
+Answer
+Situation(S): During my research internship in my bachelor's, I was working on coal pressed sandstone to find its index properties, I was working with a professor and a team of two PhDs. When I tested the specimens on the Schmidt rebound hammer and the Brazilian tensile strength tests, they proved to be homogenous and satisfied the strength requirements. But during the Ultrasonic Pulse Velocity test, I observed discrepancy between the S-wave and P-wave velocities, hinting to presence of organic matter, which was overlooked by the PhDs. 
+
+Task(T): I needed to prove that there was organic matter in the rock samples, which could manipulate further test results. 
+
+Action(A): I insisted on having a X-ray Fluorescence test to be done on the specimens, which showed that there was presence of carbon, in the form of coal, which had manipulated the UPV test results. 
+
+Result(R): The PhD students thanked my observation and proactive verification and the professor commended my work, thereby saving lots of time and resources which could have otherwise been spent on other tests, assuming the homogeneity of the rock samples.
+
+14. Deliver results: For a TIPM, we'll need to work on meeting deadlines, especially on critical path milestones, proactively removing obstacles, tracking progress and adjusting when needed, and focussing on outcomes and not activity.
+
+Potential question: Tell me about a time you delivered results under difficult circumstances?
+
+Answer: I can answer according to the customer Obsession case(1) where I prioritised customer's needs and delivered the unit based on the customer's target, by proactive decision making.
+
+15. Strive to be Earth's best employer: For a TIPM intern, I must contribute to an inclusive team environment, look out for team members' well being, supporting them, and fostering psychological safety
+
+16. Success and Scale bring broad responsibility: As TIPM interns, we must consider environmental impact of our infrastructural decisions, understand that data center decisions affect communities, being thoughtful about supplier and contractor relationships, and recognising that our work enables customers worldwide and our inefficiencies can have a global repercussions.
+
+
+
+below is the summary or points from the above content, So I was looking for a story to answer to the sample questions related to the 16 leadership principles mentioned in the first file. The stories need to be elaborate, detailed, with background of my firm, project and role, along with figures on how much time, cost or quantities I have saved or used. The leadership principles are below:
+1. Customer Obsession 
+2. Ownership
+3. Earn trust
+4. Invent and simplify
+5. Are right, a lot
+6. Learn and be curious
+7. Hire and develop the best
+8. Insist on the highest standards
+9. Think big
+10. Bias for action
+11. Frugality
+12. Dive deep
+13. Have backbone: Disagree and commit
+14. Deliver results.
+
+
+I want the above content for my domain and for my things;
+The firm I worked for: Millennia ventures and projects.
+Project name: Millennia Grandeur
+Role: Construction Project Manager 
+Job description: I needed to work on procurement, scheduling, RFI management, Vendor management, cost estimation, coordination with multidisciplinary teams. I joined after the most of the structures were completed, except the last slab. Along with which I had to manage the MEP, such as the HVAC system, Electrical ducting work, Flooring work, and finishing works.
