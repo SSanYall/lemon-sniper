@@ -1,0 +1,50 @@
+1. It's like a daily life talk, nothing different from a regular conversation, do not be nervous.
+2. For Amazon, you don't have to know everything, it's like a start-up, the culture is not like to know  everything, but how willing are you to learn. 
+3. Be upfront that I don't know if you don't know something, but I'm a quick learner and with good mentorship, I can learn.
+4. For technical side, learn the basic concepts of POEs, transformers, switch gears, about data centers
+5. Learn about Amazon and AWS. Learn the history of AWS and how it started: started since 2008. Show passion about learning from Amazon.
+6. Mention numbers as much as possible. They need data, back answers up with data.
+7. Technical questions would be related to softwares or scheduling, prepare couple more examples on scheduling, Vendor management, team coordination stories as well.
+8. Stories need to be very detailed. Mention dollar amount in the stories. Make them sound technical and detailed.
+9. Know about the HVB lines and utility lines, know the basics of data centers and learn the basic definitions.
+10. Make examples more detailed.
+
+
+
+STAR response is situation, task, action and Result, which is a situational type of set of questions which demands what type of response we had on it, why we responded that way and show OUR CONTRIBUTIONS to a problem and not of the team. It is the main part of the Leadership Principles assessment(LP) for Amazon.  Each situation of an LP demands a STAR based response.
+
+An interview would typically have 3-5 LP(Leadership Principles) based questions, which need to be answered in the STAR method.
+
+Big risk decision example: 
+I was supposed to start with a slab concrete pouring the following day. Unfortunately till then we did not have sufficient Sand at the site and we had to schedule for a team of 25 civil laborers for the next day to start pouring concrete, who need to be informed 24 hours in advance and will take full payment whether the sand arrives or not. But due to heavy rain forecast, transporting sand was becoming difficult and we were running on a tight schedule as the concrete pouring was a critical activity. So I had to take the risk of scheduling the workers to be on site and make sure the sand arrives and is covered well, during a short dry window, risking pay of 25 workers the next day.
+
+LEADERSHIP PRINCIPLES:
+
+1. Customer Obsession: Customer can be external, who are clients using the services or Internal, such as the engineering team that I support as TIPM. For a TIPM, it could be a data center operation team waiting for capacity, or cooling engineer waiting for info to complete their design, or end users expecting servers on time.
+As part of customer Obsession, I must make sure I understand what the downstream teams need and deliver them proactively, while anticipating delays. Going above and beyond what is needed to make sure the stakeholders receive what they need to perform effectively.
+
+Potential question: Tell me an example when you went above and beyond for a customer?
+Answer:
+Situation(S): While working as a project manager, I was expected to have completed carpentry, painting and clean-up for a unit by the end of the day, as the customer preponed the housewarming as it was an auspicious day. (Mention about the project and it's scope, and my position and scope of my position, what stage of the project. Assume they don't know anything and start from scratch)
+
+Task(T): So, I needed to make sure the unit was finished by the end of the day. 
+
+Action(A): So I made sure the carpentry team worked alongside the painting team, instead of scheduling them one after the other, wherein the painting team started the paintwork of one room, as soon as the carpentry work completed in that room, one following the other. That led to the carpentry and painting work to be completed by 4:00PM. I then had the deep cleaning team scheduled who completed cleaning the unit by 8:30 PM. 
+
+Result(R): Even though it went beyond the regular workday time, I managed to handover the unit to the owner by the end of the day, making sure their commitments were fulfilled.
+
+
+Inputs: Also include project scope, how did I manage resources, how many rooms, how many crew etc.
+Example is weak, try making a stronger example.
+
+2. Ownership: Is the most critical LP for a PM. It requires taking responsibility for anything to go wrong, Thinking beyond the immediate scope, never waiting to be told what to do, and to care about outcomes or repercussions of decisions, not just direct outcomes.
+
+For TIPM, in case a vendor is about to miss a deadline, I must proactively flag the issue, and not wait for someone to ask. Or if a process is broken, I must propose and fix and not only complain about it. Or if there is a communication gap, I must be the mediator for the issue to be resolved, not blame them for it not to be my official job.
+
+Potential question: Tell me a situation where I took ownership of a something outside of my responsibilities?
+
+Answer:
+Situation(S): When I joined as a PM at my firm, the equipment delivery scheduling was handled by 3 individuals, the site manager, the procurement lead, and the logistics coordinator. This led to frequent mis
+
+Ai needs to
+Come up with situations and scenarios that examples
